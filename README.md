@@ -1,5 +1,16 @@
 
-  # trabalhofinal
+  # Trabalho Final - Sistemas Web
+
+  ## Componentes   - Equipe 7
+
+  Djair Maykon
+  Lorena Roberta
+  Marcos Pimentel
+  Pedro Amaral
+  Thales Brito
+  Virginia Lucia Pinto
+
+
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
