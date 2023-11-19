@@ -1,0 +1,311 @@
+.bg1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--light-base-color-white);
+  box-shadow: var(--d1);
+  width: 1920px;
+  height: 100px;
+}
+.salvador-bahia7 {
+  position: absolute;
+  top: 26px;
+  left: 318px;
+  font-weight: 900;
+  background: linear-gradient(
+    269.48deg,
+    #bc0004,
+    #f77700 24.06%,
+    #f7df00 47.5%,
+    #7c9b32 70.94%,
+    #009bdb 88.12%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 334px;
+}
+.home7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.home-inner {
+  position: absolute;
+  top: 30px;
+  left: 17px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-crimson);
+  width: 18px;
+  height: 4px;
+}
+.home6 {
+  width: 52px;
+  height: 24px;
+  color: var(--black);
+}
+.comentrios4,
+.home6,
+.sobre4 {
+  position: relative;
+}
+.comentrios4 {
+  font-size: var(--font-size-xl);
+}
+.menu3 {
+  position: absolute;
+  top: 38px;
+  left: 837px;
+  width: 769px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-40xl);
+  font-size: var(--font-size-6xl);
+}
+.image-4-icon1,
+.navbar3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+}
+.navbar3 {
+  height: 100px;
+  color: var(--grey-1);
+  font-family: var(--font-barlow);
+}
+.image-4-icon1 {
+  height: 722px;
+  object-fit: cover;
+}
+.back-buttons-icon {
+  position: absolute;
+  height: 7.76%;
+  width: 55.73%;
+  top: 80.75%;
+  right: 22.14%;
+  bottom: 11.5%;
+  left: 22.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.salvador-ba,
+.um-paraso-de3 {
+  position: absolute;
+  display: inline-block;
+}
+.um-paraso-de3 {
+  top: 122px;
+  left: calc(50% - 451.5px);
+  letter-spacing: 0.01em;
+  line-height: 125%;
+  font-weight: 600;
+  width: 903px;
+}
+.salvador-ba {
+  top: 0;
+  left: calc(50% - 379.5px);
+  font-size: var(--font-size-61xl);
+  line-height: 120%;
+  font-weight: 800;
+  width: 826px;
+}
+.image-4-group,
+.um-paraso-de-belas-praias-mu-container {
+  position: absolute;
+  top: 281px;
+  left: 508px;
+  width: 903px;
+  height: 160px;
+}
+.image-4-group {
+  top: 101px;
+  left: 0;
+  width: 1920px;
+  height: 722px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+}
+.background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-200);
+  width: 1923px;
+  height: 285px;
+}
+.sistemas-web-20233,
+.turismo3 {
+  position: absolute;
+  top: 171.1px;
+  left: calc(50% - 279.5px);
+  letter-spacing: 0.01em;
+  line-height: 125%;
+  display: inline-block;
+  width: 559px;
+  height: 34.3px;
+}
+.turismo3 {
+  top: 62.5px;
+  left: calc(50% - 40.5px);
+  width: 81px;
+  height: 16.3px;
+}
+.group-social-icons3 {
+  position: absolute;
+  height: 11.73%;
+  width: 22.54%;
+  top: 48.98%;
+  right: 38.64%;
+  bottom: 39.29%;
+  left: 38.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.salvador-bahia8 {
+  position: absolute;
+  top: 0;
+  left: 102px;
+  font-size: var(--font-size-21xl);
+  font-weight: 900;
+  font-family: var(--font-barlow);
+  background: linear-gradient(
+    269.48deg,
+    #bc0004,
+    #f77700 24.06%,
+    #f7df00 47.5%,
+    #7c9b32 70.94%,
+    #009bdb 88.12%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 358px;
+}
+.footer3,
+.sistemas-web-2023-container {
+  position: absolute;
+  top: 60px;
+  left: 682px;
+  width: 559px;
+  height: 205.4px;
+}
+.footer3 {
+  top: 4300px;
+  left: -1px;
+  width: 1923px;
+  height: 285px;
+  text-align: center;
+  font-size: var(--body-body-1-regular-size);
+}
+.salvador-a-primeira-container,
+.sobre-salvador {
+  position: absolute;
+  letter-spacing: 0.01em;
+  line-height: 120%;
+  display: inline-block;
+}
+.sobre-salvador {
+  top: 0;
+  left: 245px;
+  font-size: var(--font-size-41xl);
+  text-align: center;
+  width: 832px;
+}
+.salvador-a-primeira-container {
+  top: 154px;
+  left: calc(50% - 645px);
+  width: 1288px;
+}
+.a-cidade-tambm,
+.a-gastronomia-de,
+.alm-disso-container {
+  position: absolute;
+  top: 879px;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 120%;
+  display: inline-block;
+  width: 1290px;
+}
+.a-cidade-tambm,
+.a-gastronomia-de {
+  top: 1540px;
+  width: 1288px;
+}
+.a-cidade-tambm {
+  top: 2320px;
+  width: 1290px;
+}
+.salvador-foi-o {
+  margin: 0;
+}
+.salvador-foi-o-container {
+  position: absolute;
+  top: 2951px;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 120%;
+  display: inline-block;
+  width: 1290px;
+}
+.image-15-icon {
+  position: absolute;
+  top: 327px;
+  left: 611px;
+  width: 677px;
+  height: 467px;
+  object-fit: cover;
+}
+.image-13-icon,
+.image-17-icon,
+.image-20-icon,
+.image-22-icon {
+  position: absolute;
+  top: 1013px;
+  left: 0;
+  width: 1288px;
+  height: 465px;
+  object-fit: cover;
+}
+.image-13-icon,
+.image-20-icon,
+.image-22-icon {
+  top: 1710px;
+  height: 489px;
+}
+.image-13-icon,
+.image-22-icon {
+  top: 2434px;
+  height: 442px;
+}
+.image-13-icon {
+  top: 325px;
+  width: 573px;
+  height: 465px;
+}
+.sobre-salvador-parent {
+  position: absolute;
+  top: 964px;
+  left: 315px;
+  width: 1290px;
+  height: 3101px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+}
+.saiba-mais {
+  position: relative;
+  background-color: var(--light-base-color-white);
+  width: 100%;
+  height: 4585px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--light-base-color-white);
+  font-family: var(--body-body-1-regular);
+}
