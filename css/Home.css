@@ -75,7 +75,7 @@
   height: 24px;
   color: var(--black);
 }
-.comentrios5 {
+.comentarios5 {
   position: relative;
   font-size: var(--font-size-xl);
 }
@@ -102,7 +102,7 @@
   font-size: var(--font-size-21xl);
   color: var(--grey-1);
 }
-.comentrios6 {
+.comentarios6 {
   position: relative;
   letter-spacing: 0.2em;
   text-transform: uppercase;
@@ -450,7 +450,7 @@
   width: 320px;
 }
 .fall-in-love,
-.prague-czechia {
+.topo {
   position: relative;
 }
 .magic-star-icon30 {

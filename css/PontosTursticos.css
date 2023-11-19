@@ -37,7 +37,7 @@
   height: 24px;
   color: var(--black);
 }
-.comentrios2 {
+.comentarios2 {
   position: relative;
   font-size: var(--font-size-xl);
 }
@@ -79,7 +79,7 @@
   font-weight: 600;
   width: 903px;
 }
-.pontos-tursticos6 {
+.pontos-turisticos6 {
   top: 0;
   left: calc(50% - 360.5px);
   font-size: var(--font-size-61xl);
@@ -255,7 +255,7 @@
   width: 218px;
   height: 10px;
 }
-.comentrios3 {
+.comentarios3 {
   position: relative;
   letter-spacing: 0.2em;
   text-transform: uppercase;
@@ -503,7 +503,7 @@
   height: 2169.8px;
   color: var(--color-black);
 }
-.pontos-tursticos4 {
+.pontos-turisticos4 {
   position: relative;
   background-color: var(--light-base-color-white);
   width: 100%;
